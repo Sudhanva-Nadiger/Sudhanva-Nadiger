@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sudhanva-Nadiger&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/> 
+-->
+<img src="https://myreadme.vercel.app/api/embed/Sudhanva-Nadiger?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sudhanva-Nadiger&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
+![](https://leetcard.jacoblin.cool/sudhanva_nadiger__?ext=contest)
+
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=Sudhanva-Nadiger&theme=dark)](https://git.io/streak-stats) -->
