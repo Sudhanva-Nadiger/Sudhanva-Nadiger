@@ -21,6 +21,13 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sudhanva-Nadiger&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
+<h2></h2>
+  <h3> <strong> Languages, Frameworks, and Tools </strong></h3>
+  <img src="https://skillicons.dev/icons?i=cpp,js,go,dart,py" alt="skills logos" /> <br>
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,materialui,react,redux,nodejs,expressjs,mongodb,mysql,flutter" alt="skills logos" /> <br>
+  <img src="https://skillicons.dev/icons?i=git,github,webpack,vite,vscode,postman,netlify,vercel" alt="skills logos" /> <br>
+<h2></h2>
+
 ![](https://leetcard.jacoblin.cool/sudhanva_nadiger__?ext=contest)
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=Sudhanva-Nadiger&theme=dark)](https://git.io/streak-stats) -->
