@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 <h2></h2>
   <h3> <strong> Languages, Frameworks, and Tools </strong></h3>
   <img src="https://skillicons.dev/icons?i=cpp,js,go,dart,py" alt="skills logos" /> <br>
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,materialui,react,redux,nodejs,expressjs,mongodb,mysql,flutter" alt="skills logos" /> <br>
-  <img src="https://skillicons.dev/icons?i=git,github,webpack,vite,vscode,postman,netlify,vercel" alt="skills logos" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,materialui,react,redux,nodejs,expressjs,mongodb,mysql,flutter" alt="skills logos" /> <br>
+  <img src="https://skillicons.dev/icons?i=git,github,vite,vscode,netlify,vercel" alt="skills logos" />
 <h2></h2>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sudhanva-Nadiger&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
