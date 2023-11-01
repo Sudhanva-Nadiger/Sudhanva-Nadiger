@@ -35,6 +35,10 @@ Here are some ideas to get you started:
   <img src="https://skillicons.dev/icons?i=git,github,vite,vscode,netlify,vercel" alt="skills logos" />
 <h2></h2>
 
+ [![@vinitshahdeo's Holopin board](https://holopin.me/sudhanva_nadiger__)](https://holopin.io/@sudhanva_nadiger__)
+
+<h2></h2>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sudhanva-Nadiger&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 <h2></h2>
 
