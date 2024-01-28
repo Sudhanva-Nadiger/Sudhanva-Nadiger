@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
   <h3> <strong> Languages, Frameworks, and Tools </strong></h3>
   <img src="https://skillicons.dev/icons?i=cpp,js,ts,go,dart,py" alt="skills logos" /> <br>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,materialui,react,redux,nodejs,expressjs,mongodb,mysql,flutter" alt="skills logos" /> <br>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,materialui,react,next,redux,nodejs,expressjs,mongodb,mysql,flutter" alt="skills logos" /> <br>
   <img src="https://skillicons.dev/icons?i=git,github,vite,vscode,netlify,vercel" alt="skills logos" />
 <h2></h2>
 
