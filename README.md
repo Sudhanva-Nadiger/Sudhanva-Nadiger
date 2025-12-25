@@ -37,12 +37,6 @@ Here are some ideas to get you started:
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,vite,vscode,netlify,vercel,expo" alt="skills logos" />
 <h2></h2>
 
-<img src="https://myreadme.vercel.app/api/embed/Sudhanva-Nadiger?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-
-<h2></h2>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sudhanva-Nadiger&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-<h2></h2>
 
 ![](https://leetcard.jacoblin.cool/sudhanva_nadiger__?ext=contest)
 
