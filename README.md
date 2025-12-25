@@ -32,9 +32,9 @@ Here are some ideas to get you started:
 <h2></h2>
 
   <h3> <strong> Languages, Frameworks, and Tools </strong></h3>
-  <img src="https://skillicons.dev/icons?i=cpp,js,ts,go,dart,py" alt="skills logos" /> <br>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,materialui,react,next,redux,nodejs,expressjs,nest,mongodb,mysql,postgres,prisma,flutter" alt="skills logos" /> <br>
-  <img src="https://skillicons.dev/icons?i=git,github,vite,vscode,netlify,vercel,expo" alt="skills logos" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,ts,go,dart,py,java,ruby" alt="skills logos" /> <br>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,materialui,react,next,redux,nodejs,expressjs,nest,mongodb,mysql,postgres,prisma,flutter,spring" alt="skills logos" /> <br>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,vite,vscode,netlify,vercel,expo" alt="skills logos" />
 <h2></h2>
 
 <img src="https://myreadme.vercel.app/api/embed/Sudhanva-Nadiger?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
