@@ -25,17 +25,18 @@ Here are some ideas to get you started:
 </div>
 <h2></h2>
   <br />
-  <h3> <strong> Hactober Fest 2023 </strong></h3>
-  
- [![@vinitshahdeo's Holopin board](https://holopin.me/sudhanva_nadiger__)](https://holopin.io/@sudhanva_nadiger__)
-
-<h2></h2>
 
   <h3> <strong> Languages, Frameworks, and Tools </strong></h3>
   <img src="https://skillicons.dev/icons?i=cpp,js,ts,go,dart,py,java,ruby" alt="skills logos" /> <br>
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,materialui,react,next,redux,nodejs,expressjs,nest,mongodb,mysql,postgres,prisma,flutter,spring" alt="skills logos" /> <br>
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,vite,vscode,netlify,vercel,expo" alt="skills logos" />
 <h2></h2>
+
+[![Sudhanva's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=sudhanva-nadiger&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=radical))](https://github.com/sudhanva-nadiger/github-readme-stats-fast)
+
+<h3> <strong> Hactober Fest 2023 </strong></h3>
+  
+ [![@vinitshahdeo's Holopin board](https://holopin.me/sudhanva_nadiger__)](https://holopin.io/@sudhanva_nadiger__)
 
 
 ![](https://leetcard.jacoblin.cool/sudhanva_nadiger__?ext=contest)
